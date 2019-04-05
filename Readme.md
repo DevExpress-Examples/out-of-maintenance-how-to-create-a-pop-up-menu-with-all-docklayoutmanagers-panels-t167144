@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [DockLayoutSelectBehavior.cs](./CS/DockLayoutSelectExample/Behavior/DockLayoutSelectBehavior.cs) (VB: [DockLayoutSelectBehavior.vb](./VB/DockLayoutSelectExample/Behavior/DockLayoutSelectBehavior.vb))
-* [MainWindow.xaml](./CS/DockLayoutSelectExample/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DockLayoutSelectExample/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/DockLayoutSelectExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DockLayoutSelectExample/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/DockLayoutSelectExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DockLayoutSelectExample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to create a pop-up menu with all DockLayoutManager's panels
